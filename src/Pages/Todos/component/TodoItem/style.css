@@ -1,0 +1,27 @@
+
+.todo-item-container{
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #bbb;
+  background-color: #eee;
+}
+.todo-item-title {
+  text-decoration: line-through;
+}
+.todo-delete-btn {
+  float: right;
+  margin-top: 5px;
+  margin-right: 5px;
+  outline: none;
+  background: #f40;
+  border-radius: 2px;
+  border-width: 0;
+  height: 30px;
+  width: 50px;
+  cursor: pointer;
+  color: #fff;
+}
+.todo-delete-btn:hover {
+  background: #f50;
+}

@@ -1,0 +1,21 @@
+.head {
+  position: relative;
+  height: 60px;
+  line-height: 60px;
+  background: #666;
+  text-align: center;
+  color: #fff;
+}
+
+.navigation {
+  position: absolute;
+  height: 30px;
+  right: 20px;
+  bottom: 22px;
+}
+
+.link-style {
+  line-height: 30px;
+  color: #fff;
+  text-decoration: none;
+}
